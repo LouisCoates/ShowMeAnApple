@@ -1,4 +1,4 @@
-# Simple-Python-Chatbot
+# Show Me An Apple
 
-Creating a simple Python chatbot using natural language processing and deep learning.
+A simple Python chatbot using natural language processing and deep learning.
 
