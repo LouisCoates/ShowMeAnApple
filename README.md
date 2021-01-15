@@ -1,3 +1,4 @@
-# Simple-Python-Chatbot
+# Show Me An Apple
 
-Creating a simple Python chatbot using natural language processing and deep learning, and image recognition to detect apple images.
+A simple Python chatbot using natural language processing and deep learning.
+
